@@ -1,13 +1,13 @@
 venues:
-    - "conf/aaai",
-    - "conf/aistats",
-    - "conf/eccv",
-    - "conf/cvpr",
+    - "conf/aaai"
+    - "conf/aistats"
+    - "conf/eccv"
+    - "conf/cvpr"
     - "conf/iccv"
-    - "conf/iclr",
-    - "conf/icml",
-    - "conf/nips",
-    - "conf/ijcai",
-    - "conf/colt",
-    - "conf/uai",
+    - "conf/iclr"
+    - "conf/icml"
+    - "conf/nips"
+    - "conf/ijcai"
+    - "conf/colt"
+    - "conf/uai"
     - "conf/icra"
